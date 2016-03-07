@@ -1,5 +1,5 @@
 How browsers work
-What is a browswer?
+What is a browser?
  a software application for retrieving, presenting, and traversing information resources on the World Wide Web. An information resource is identified by a Uniform Resource Identifier (URI/URL) and may be a web page, image, video or other piece of content.
 REFERENCES
 http://skillcrush.com/2013/02/24/how-browsers-work/
