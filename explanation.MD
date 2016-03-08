@@ -1,4 +1,4 @@
-How browsers work
+#H1 How browsers work
 What is a browser? it is a software application for retrieving, presenting, and traversing information resources on the World Wide Web. 
  An information resource is identified by a Uniform Resource Identifier (URI/URL) and may be a web page, image, video or other piece of content.
 REFERENCES
